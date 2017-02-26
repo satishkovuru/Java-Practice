@@ -1,2 +1,2 @@
 # Java-Practice
-Mostly asked interview questions about programming in Java
+Java Practice for Data Structures and Algorithms
