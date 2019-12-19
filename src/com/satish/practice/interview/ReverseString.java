@@ -1,5 +1,6 @@
 package com.satish.practice.interview;
 
+//comments added
 import java.util.Scanner;
 
 public class ReverseString {
